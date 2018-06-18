@@ -1,0 +1,10 @@
+#hotelname{
+		background-color: red;
+		} 
+#navbutton > a {
+		color: red;
+		padding: 3px;
+}
+#footeraboutus > strong {
+	background-color: green
+}
